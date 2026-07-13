@@ -1,9 +1,9 @@
 import java.awt.*;
 import javax.swing.*;
 
-public class Lab02 extends JPanel {
+public class Lab02_67050203 extends JPanel {
     public static void main(String[] args) {
-        Lab02 m = new Lab02();
+        Lab02_67050203 m = new Lab02_67050203();
 
         JFrame f = new JFrame();
         f.add(m);
